@@ -60,4 +60,4 @@ High-performance **distributed GPU kernels for AMD MI300X** accelerators, optimi
 
 ---
 
-*Efficient ML orchestration on GPUs — at any scale.*
+*Multi-silicon. Multi-cloud. One platform built for enterprise AI at any scale.*
