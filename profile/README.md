@@ -61,3 +61,7 @@ High-performance **distributed GPU kernels for AMD MI300X** accelerators, optimi
 ---
 
 *Multi-silicon. Multi-cloud. One platform built for enterprise AI at any scale.*
+
+---
+
+Thank you for visiting [Yotta Labs](https://yottalabs.ai) on GitHub! We look forward to collaborating with you.
