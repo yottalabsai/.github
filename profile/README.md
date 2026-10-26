@@ -21,9 +21,9 @@ We make elastic GPU compute fast, accessible, and production-ready — so engine
 
 ## Open Source
 
-### Difflet: A Fast Inference Engine For Diffusion Transformer Models on Multi-Silicon
+### 🐦 Difflet: A Fast Inference Engine For Diffusion Transformer Models on Multi-Silicon
 
-→ [Difflet GitHub Repo]([https://github.com/ai-decentralized/Difflet](https://github.com/ai-decentralized/Difflet))
+→ [Difflet GitHub Repo](https://github.com/ai-decentralized/Difflet)
 
 
 ### 🐝 BloomBee
